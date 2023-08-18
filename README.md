@@ -17,5 +17,6 @@ The Game Midlibs Video by Kylie Ying uploaded on FreeCodeCamp Youtube
 Link To that Game video - https://youtu.be/8ext9G7xspg?t=101
 
 ## Important 
-This Game Doesn't Contain Any GUI. You can only run and see the output in Terminal 
+This Game Doesn't Contain Any GUI. You can only run and see the output in Terminal
+
 I have made this game in Visual Studio 
