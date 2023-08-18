@@ -14,7 +14,7 @@ This is a Fill in the blank lyrics game in which you have to fill the correct wo
 ## Links 
 The Game Midlibs Video by Kylie Ying uploaded on FreeCodeCamp Youtube 
 
-Link To that Game - https://youtu.be/8ext9G7xspg?t=101
+Link To that Game video - https://youtu.be/8ext9G7xspg?t=101
 
 ## Important 
 This Game Doesn't Contain Any GUI. You can only run and see the output in Terminal 
